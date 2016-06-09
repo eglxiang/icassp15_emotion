@@ -7,3 +7,4 @@ http://www.consortium.ri.cmu.edu/ckagree/
 and crop the faces using a detector such as Viola-Jones.
 
 Contact: xxiang@cs.jhu.edu
+The program is developed on Windows. Except directory access issues such as '/' or '\', 'ls' or 'dir' and so on, the program should be able to easily migarated to Linux.

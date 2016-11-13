@@ -1,4 +1,4 @@
-### Joint Sparse and Low-Rank representation for emotion recognition.
+###Joint Sparse and Low-Rank representation for emotion recognition.
 
 Please download the DATA folder (processed Extended Cohn Kanade Database)
 from https://goo.gl/Wvfndv (Dropbox) or https://goo.gl/zt89pE (Google Drive)

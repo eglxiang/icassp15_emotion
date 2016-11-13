@@ -10,6 +10,7 @@ http://www.consortium.ri.cmu.edu/ckagree/ and crop the faces using a detector su
 The program is developed on Windows. Except directory access issues such as '/' or '\', 'ls' or 'dir' and so on, the program should be able to easily migarated to Linux.
 
 @inproceedings{xiang2015hierarchical,
+
   title={Hierarchical Sparse and Collaborative Low-Rank Representation for Emotion Recognition},
   author={Xiang, Xiang and Dao, Minh and Hager, Gregory D and Tran, Trac D},
   booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},

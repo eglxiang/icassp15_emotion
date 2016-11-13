@@ -1,4 +1,4 @@
-###Joint Sparse and Low-Rank representation for emotion recognition.
+###Joint sparse and low-rank representation for emotions.
 ![](illustration.png "The Joint Sparse and Low-Rank Model applied to emotion recognition.")
 Contact: xxiang@cs.jhu.edu
 
@@ -9,12 +9,11 @@ http://www.consortium.ri.cmu.edu/ckagree/ and crop the faces using a detector su
 
 The program is developed on Windows. Except directory access issues such as '/' or '\', 'ls' or 'dir' and so on, the program should be able to easily migarated to Linux.
 
-@inproceedings{xiang2015hierarchical,
-
-  title={Hierarchical Sparse and Collaborative Low-Rank Representation for Emotion Recognition},
-  author={Xiang, Xiang and Dao, Minh and Hager, Gregory D and Tran, Trac D},
-  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  pages={3811--3815},
-  year={2015},
-  organization={IEEE}
+@inproceedings{xiang2015hierarchical, <br>
+  title={Hierarchical Sparse and Collaborative Low-Rank Representation for Emotion Recognition}, <br>
+  author={Xiang, Xiang and Dao, Minh and Hager, Gregory D and Tran, Trac D}, <br>
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},<br>
+  pages={3811--3815},<br>
+  year={2015},<br>
+  organization={IEEE}<br>
 }

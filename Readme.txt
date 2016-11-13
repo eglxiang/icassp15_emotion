@@ -1,6 +1,7 @@
-Please download the DATA folder 
-from https://www.dropbox.com/sh/w1upmbmo3n46uf8/AABVtw58gJw3PBGuO2XfkB2Ma?dl=0 or https://drive.google.com/drive/folders/0B15zDNkI3Iu1dDVZX2FVdjNvRkE?usp=sharing
+Please download the DATA folder (processed Extended Cohn Kanade Database)
+from https://goo.gl/Wvfndv (Dropbox) or https://goo.gl/zt89pE (Google Drive)
 and place it inside icassp15 folder.
+![Alt text](illustration.png?raw=true "The Joint Sparse and Low-Rank Model applied to emotion recognition.")
 
 In case you cannot access Dropbox please download the CK+ dataset from
 http://www.consortium.ri.cmu.edu/ckagree/

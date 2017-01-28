@@ -17,3 +17,5 @@ The program is developed on Windows. Except directory access issues such as '/' 
   year={2015},<br>
   organization={IEEE}<br>
 }
+
+See also https://www.mathworks.com/matlabcentral/fileexchange/61323-eglxiang-icassp15-emotion for the comments from the Matlab developer community.

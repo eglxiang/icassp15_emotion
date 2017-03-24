@@ -55,7 +55,7 @@ test_mode = 'equally_spaced';
 num_frames_per_test_video = 8;
 do_normalize_test=0; % why not normalized
 
-global_max_iter=100;
+global_max_iter=600;
 lasso_max_iter=100;
 alpha =10;
 confussion_matrix=zeros(7,7);

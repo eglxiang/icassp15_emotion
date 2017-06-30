@@ -12,10 +12,9 @@ The program is developed on Windows. Except directory access issues such as '/' 
 @inproceedings{xiang2015hierarchical, <br>
   title={Hierarchical Sparse and Collaborative Low-Rank Representation for Emotion Recognition}, <br>
   author={Xiang, Xiang and Dao, Minh and Hager, Gregory D and Tran, Trac D}, <br>
-  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},<br>
+  booktitle={IEEE ICASSP},<br>
   pages={3811--3815},<br>
   year={2015},<br>
-  organization={IEEE}<br>
 }
 
 See also https://www.mathworks.com/matlabcentral/fileexchange/61323-eglxiang-icassp15-emotion for the comments from the Matlab developer community.

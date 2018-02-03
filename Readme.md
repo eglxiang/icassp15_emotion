@@ -17,4 +17,14 @@ The program is developed on Windows. Except directory access issues such as '/' 
   year={2015},<br>
 }
 
+@article{xiang2017linear,
+  title={Linear Disentangled Representation Learning For Facial Actions},
+  author={Xiang, Xiang and Tran, Trac D},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2017},
+  publisher={IEEE}
+}
+
+Xiang Xiang and Trac D. Tran: Linear Disentangled Representation Learning for Facial Actions. To appear at IEEE Trans. Circuits and System for Video Tech. (IEEE T-CSVT), Volume: PP, Issue: 99, 2018.
+
 See also https://www.mathworks.com/matlabcentral/fileexchange/61323-eglxiang-icassp15-emotion for the comments from the Matlab developer community.
